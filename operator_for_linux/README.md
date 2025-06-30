@@ -9,8 +9,12 @@ This guide will help you set up and run the Fiamma Operator on Linux systems. Th
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/fiamma-chain/operator_for_linux.git
-cd operator_for_linux
+git clone https://github.com/fiamma-chain/operator-release.git
+```
+Then
+
+```bash
+tar -zxvf operator-release/operator_for_linux/FiammaOperator.0.12.x.tar.gz -C operator-release --strip-components=1 && mv operator-release/ operator_for_linux/ && cd operator_for_linux/
 ```
 
 ### Step 2: Prepare the Environment
