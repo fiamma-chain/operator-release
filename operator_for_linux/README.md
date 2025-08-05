@@ -14,7 +14,7 @@ git clone https://github.com/fiamma-chain/operator-release.git
 Then
 
 ```bash
-tar -zxvf operator-release/operator_for_linux/FiammaOperator.1.3.x.tar.gz -C operator-release --strip-components=1 && mv operator-release/ operator_for_linux/ && cd operator_for_linux/
+tar -zxvf operator-release/operator_for_linux/FiammaOperator.1.4.x.tar.gz -C operator-release --strip-components=1 && mv operator-release/ operator_for_linux/ && cd operator_for_linux/
 ```
 
 ### Step 2: Prepare the Environment
