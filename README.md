@@ -5,6 +5,8 @@ Fiamma Operator is a bridge operator application for the Fiamma trust-minimized 
 ## Platform-Specific Instructions
 
 ### Mac Users
+**Note:** Mac operator support is currently limited to **testnet only**. Latest Mac versions require additional setup work. If you need to run the operator on Mac, please contact us for assistance.
+
 For detailed installation and usage instructions on Mac, please refer to the [Mac Operator Documentation](https://docs.fiammalabs.io/our-product-suite/pragmatically-trustless-bitvm-bitcoin-bridge/user-guides/testnet-beta/how-to-run-the-fiamma-operator/operator-for-mac).
 
 ### Linux Users  
